@@ -1,3 +1,4 @@
+/* Page-wide Styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -33,6 +34,7 @@ header div {
     font-size: 20px;
 }
 
+/* Navigation */
 header div ul {
     list-style-type: none;
 }
@@ -51,6 +53,9 @@ p {
     font-size: 16px;
 }
 
+/* Main */
+
+/* Featured top image */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,12 +75,15 @@ p {
     margin-left: 25px;
 }
 
-/*main section*/
+/* Content Section - Horiseon Services */
+
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Benefits */
 
 .benefit {
     margin-right: 20px;
